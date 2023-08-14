@@ -6,7 +6,7 @@ This is an API for a social network application where users can share their thou
 ## Installation
 Users will need to install dependences in the terminal using `npm i` and then start the app with `node server.js`
 
-## Usageapi
+## Usage
 Since this is just the backend of an app, users will need a client-side API like Insomnia to interact. From there, you can make CRUD requests.
 
 ## License
